@@ -1,2 +1,2 @@
 # runblender
-Running big blender projects using Google COlab
+Running big blender projects using Google Colab
